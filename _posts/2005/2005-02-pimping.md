@@ -1,0 +1,45 @@
+---
+title: Looking for Contract Work
+date: 2005-02-11
+---
+
+I've attempted to keep my personal site very separate from my work, for
+various reasons, not least of which being that it's boring for people to
+read - but, I can't think of very many ways of reaching ~1000 Python People
+(tm) in a day, so I'm going to do this anyway.
+
+I am currently looking for contract/consultancy work in the UK. I'm
+passionate about Python, and I'm good at it too.
+
+I've been using Linux & other Unices(sp) for about 8 years. I've been doing
+sys-admin for over 5 (commercially).
+
+I've got all those generic web-skills, like HTML and CSS, a good understanding
+of HTTP and TCP/IP bit-moving and I've experience with many, many web
+frameworks, and many, many other languages, big and small.
+
+I know Java/J2EE and have Jython experience. I've used most of the SQL
+databases available, but I don't know any PL/SQL (how hard could it be? :)
+
+I'm perfectly capable of working with minimum supervision, but I also
+work well in a team. I've delivered, in a team or by myself, tens of
+projects from disparate industries (eLearning/Finance, Tyre Management,
+Text Message Marketing, WAP Scratchcards, Travel, &c). 
+
+I've consulted on mergers, and turned around flagging projects with extensive
+code-review and reworking.
+
+I can write worth a damn, despite my fondness for commas, and even did
+technical editing on the documentation for the Cisco-owned [Corvil][2].
+
+I'm available for an immediate start, based in [Stafford, UK][3], and willing
+to commute/stay over. I'm negotiable on price, prefer to contract through my
+own limited company, am open to tele-commuting, and am willing to weigh
+interesting projects and good working environments against rates.
+
+My CV is available [here][1], drop me a mail if you would like to talk on
+the phone.
+
+[1]: /cv.html
+[2]: http://www.corvil.com/
+[3]: http://www.multimap.com/map/browse.cgi?client=public&X=390000&Y=320000&width=500&height=300&gride=&gridn=&srec=0&coordsys=gb&db=pc&addr1=&addr2=&addr3=&pc=ST16&advanced=&local=&localinfosel=&kw=&inmap=&table=&ovtype=&zm=1&scale=1000000

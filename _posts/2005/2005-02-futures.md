@@ -1,0 +1,109 @@
+---
+title: Futures, or "Using Python to Expand Your Mind"
+date: 2005-02-17
+---
+
+[Comments](http://www.artima.com/forums/flat.jsp?forum=122&thread=94852)
+
+So, I went and developed a small [futures][2] implementation in Python
+([here][1]), only to find that one [already exists][3]. Oh, well. Mine's
+shorter :).
+
+The reason I really wanted to write it was to try to illustrate "tipping
+points", and how learning different languages can really expand how you develop
+in others.
+
+-----
+
+When I started learning Python, the ubiquity of lists, tuples and dictionaries
+really impressed me. I found that there were countless places to use them,
+whereas in Java I would have previously gone and created a new class. 
+
+I learned Java before Python, and its idea of OO had become "the" idea of OO in
+my head.  I had to go learn that you don't need complicated hierarchies in OO
+Python - because duck typing allows you to side-step the static typing issues
+in many cases. 
+
+In my code, things only inherit if they actually have to re-use
+functionality, but in Java I had lots of abstract classes and interfaces so
+that I could make (say) lists of Action objects. 
+
+That kind of subtle difference makes up a lot of the speed advantages that
+people cite when moving to Python. But that's not what I want to talk about- I
+want to talk about the advantages learning Python brings to Java.
+
+-----
+
+Java has a pretty complete collections system (except for lacking a
+<code>Bag</code>), but the lack of a short-cut syntax has grated on me as
+someone used to how easy using collections is in Python/Perl/Ruby.
+
+It also has something vaguely like closures- anonymous inner classes. These are
+a lot more work that their dynamic equivalents, because you need to define the
+interface that they will respond to first, and the syntax is *ugly*, but they
+have roughly the same effect.
+
+Taking a leaf out of Rails' book (though I hadn't seen Rails at the time I was
+working on this project), I moved the mapping to code, rather than XML files, and
+dispatch based on HashMaps. Each class has something like the following:
+
+```java
+	public class LoginPage extends Page {
+		public static void loginAction(State p) throws Exception {
+	...
+		public void addHandlers(Map handlers) throws Exception {
+			handlers.put("/Login", new DisplayAction("login"));
+			handlers.put("/LoginAction", 
+					new SimpleAction() { 
+						public void invoke(State p) throws Exception {
+							LoginPage.this.loginAction(p);
+						}}); 
+		}
+	...
+```
+
+Notice the extremely odd syntax for accessing the outer class, <code>LoginPage.this</code>.
+
+The controller does:
+
+```java
+	public void init() throws ServletException {
+		handlers = new HashMap();
+		try {
+			new LoginPage().addHandlers(handlers);
+	...
+		try {
+			if(handlers.containsKey(pi)) { 
+				SimpleAction action = (SimpleAction)handlers.get(pi);
+				action.invoke(p);
+			} else { 
+				res.sendError(404); 
+			}
+	...
+```
+
+Perhaps this is standard Java practice, and I'm just really slow. I'm certainly
+not saying it's revolutionary, but I decided to use this approach after being
+spoiled by Python's first-class functions. It's a dynamically inspired static program.
+
+From a negative point of view, from a Java purist stand-point, I now tend to
+use a lot of static methods. I think this is because I've realised that I spend
+a lot of time trying to map simple concepts onto objects, when really they are
+just bunches of functions. To this end, there are definitely classes in my code
+that just resemple Python modules.
+
+Now, as long as the Controller is updated with each new Page class, each Page
+is responsible for its own mappings. 
+
+Unfortunately, I couldn't find a way to get a listing of classes in a package
+through reflection; please comment if you know how. If I could have done that,
+just creating a new class would have added it to the mappings, which would be
+cooler still.
+
+My Java code now-a-days is littered with Java versions of Python idioms. The
+code is still perfectly legible to other Java programmers, because it's just
+Java.
+
+[1]: /hacks/futures.py
+[2]: http://www.ps.uni-sb.de/alice/manual/futures.html
+[3]: http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/84317

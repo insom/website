@@ -1,0 +1,94 @@
+---
+title: Making djbdns and dnscache play with Ubuntu
+date: 2008-07-15
+---
+
+Now that djbdns is [public domain](http://cr.yp.to/distributors.html)
+it can be included in Debian-based distributions. [Gerrit
+Pape](http://smarden.org/pape/) has done the hard work of packaging everything
+up and submitting to the ftpmasters at Debian, and it looks to have been
+accepted into sid.
+
+I, however, run Ubuntu, which hasn't imported this package yet. Ideally, I'd 
+also like to avoid running daemontools, as upstart does a similar job and
+already comes with Ubuntu.
+
+Install the prerequisites
+-------------------------
+
+	sudo apt-get install build-essential
+
+Grab the source files
+---------------------
+
+	mkdir djbtmp
+	cd djbtmp
+	wget http://ftp.de.debian.org/debian/pool/main/d/djbdns/djbdns_1.05-3.dsc
+	wget http://ftp.de.debian.org/debian/pool/main/d/djbdns/djbdns_1.05.orig.tar.gz
+	wget http://ftp.de.debian.org/debian/pool/main/d/djbdns/djbdns_1.05-3.diff.gz
+
+Unpack the source and build
+---------------------------
+
+	dpkg-source -x djbdns_1.05-3.dsc
+	cd djbdns-1.05
+	sudo dpkg-buildpackage
+	cd ..
+	sudo dpkg -i dbndns_1.05-3_i386.deb # djbdns with Debian improvements
+
+Great! Now we have the binaries installed, you can do a <code>dpkg -L</code> to
+check everything is there.
+
+We'll need to create a user for dnscache to run as, and a directory to run
+from. Replace 192.168.1.1 with your own IP below.
+
+Create user and directory
+-------------------------
+
+	sudo useradd dnscache
+	sudo dnscache-conf dnscache dnscache /var/lib/dnscache 192.168.1.1
+	id dnscache
+
+This has created a directory suitable for running from daemontools, which
+is not what we're doing. Off to upstart! Create the following file in /etc/event.d/dnscache. You'll need to gid and uid that <code>id dnscache</code> returned earlier to fill in below (in place of 1, which is daemon). Once again, replace 192.168.1.1 with your own IP address.
+
+	start on stopped rc2
+	start on stopped rc3
+	start on stopped rc4
+	start on stopped rc5
+
+	stop on runlevel 1
+	stop on runlevel 6
+
+	respawn
+	script
+		UID=1
+		GID=1
+		CACHESIZE=1000000
+		DATALIMIT=3000000
+		IP=192.168.1.1
+		IPSEND=0.0.0.0
+		ROOT=/var/lib/dnscache/root
+		export UID GID CACHESIZE DATALIMIT IP IPSEND ROOT
+		cd /var/lib/dnscache
+		exec <seed
+		dnscache 2>&1 | logger -t dnscache
+	end script
+
+At this point, you may be best carrying on using [DJB's own
+instructions](http://cr.yp.to/djbdns/dnscache.html). If you're setting up for
+a small internal network, you will probably want to do the following to allow
+local clients to do recursive lookups:
+
+	sudo touch /var/lib/dnscache/root/ip/192.168.1
+
+I'm eager to hear people's success and failure stories; this post is motivated
+by my pain in upgrading BIND instances to protect them from the latest round
+of DNS exploits. 
+
+When looking at the vendor status I saw that, despite not having had an update
+in years, djbdns was not affected - I'd like to see more djb-ware in use, and
+perhaps integrating with the environment (in this case Debian / Ubuntu) will
+help that.
+
+Update: Yes, I forgot to say, you must do <code>sudo start dnscache</code> before the service will start.
