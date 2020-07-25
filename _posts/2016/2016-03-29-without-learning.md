@@ -1,8 +1,9 @@
-+++
-date = "2016-03-29T23:05:04Z"
-title = "Contribution streak: Working on a project without learning the framework"
-type = "journal"
-+++
+---
+date: "2016-03-29T23:05:04Z"
+title: "Contribution streak: Working on a project without learning the framework"
+type: "journal"
+layout: post
+---
 
 Only one commit tonight, sorry. I've bungled my way through the routes file
 and submitting a form, but am not yet creating a model to add to the user.

@@ -1,8 +1,9 @@
-+++
-date = "2016-06-21T20:01:32Z"
-title = "ATtiny, Verilog, Oscilloscopes"
-type = "journal"
-+++
+---
+date: "2016-06-21T20:01:32Z"
+title: "ATtiny, Verilog, Oscilloscopes"
+type: "journal"
+layout: post
+---
 
 One of the things I didn't cover in my last post was my problems flashing an
 ATtiny461. It just wouldn't take, and even my spare wouldn't. It's probably me,

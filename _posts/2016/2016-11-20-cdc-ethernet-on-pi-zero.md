@@ -1,8 +1,9 @@
-+++
-date = "2016-11-20T16:00:00Z"
-title = "Void Linux CDC Ethernet on the Raspberry Pi Zero"
-type = "journal"
-+++
+---
+date: "2016-11-20T16:00:00Z"
+title: "Void Linux CDC Ethernet on the Raspberry Pi Zero"
+type: "journal"
+layout: post
+---
 
 A quick howto. [Void Linux][vl] is a minimal Linux distribution that
 aggressively tracks upstream software with a rolling release model. They use

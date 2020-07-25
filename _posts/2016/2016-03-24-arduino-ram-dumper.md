@@ -1,8 +1,9 @@
-+++
-date = "2016-03-24T23:25:04Z"
-title = "Contribution streak: Arduino RAM dumper and Sensu Plugins"
-type = "journal"
-+++
+---
+date: "2016-03-24T23:25:04Z"
+title: "Contribution streak: Arduino RAM dumper and Sensu Plugins"
+type: "journal"
+layout: post
+---
 
 Clearly I didn't do any more Laravel yesterday, after securing my square for
 Java. Oh, well.

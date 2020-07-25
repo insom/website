@@ -1,8 +1,9 @@
-+++
-date = "2016-03-21T23:14:04Z"
-title = "Hello, world"
-type = "journal"
-+++
+---
+date: "2016-03-21T23:14:04Z"
+title: "Hello, world"
+type: "journal"
+layout: post
+---
 
 This is my first journal entry! I had to add support for a new `type` to my
 blog to create it, so, I'd better make good use it.

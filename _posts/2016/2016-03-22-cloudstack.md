@@ -1,8 +1,9 @@
-+++
-date = "2016-03-22T19:45:04Z"
-title = "Contribution streak: Hacking on Cachet"
-type = "journal"
-+++
+---
+date: "2016-03-22T19:45:04Z"
+title: "Contribution streak: Hacking on Cachet"
+type: "journal"
+layout: post
+---
 
 Okay, I've chosen today's project to try and contribute to. I went to a talk
 at [Staffs Web Meetup][swm] where [James Brooks][jb] presented

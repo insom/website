@@ -1,8 +1,9 @@
-+++
-date = "2017-04-02T22:00:00Z"
-title = "Making your own private Internet"
-type = "journal"
-+++
+---
+date: "2017-04-02T22:00:00Z"
+title: "Making your own private Internet"
+type: "journal"
+layout: post
+---
 
 *blows dust off blog*
 
@@ -137,8 +138,8 @@ a complete mesh, I thought of a few ways to make this work:
   for this to become annoying, and it wouldn't provide any form of redundancy.
 * Use a dynamic routing protocol (like BGP). Because the hosts don't form a
   full mesh, they couldn't live inside the same autonomous system, but I could
-  allocate a bunch of ASes from the test range (64512 and above).  
-  &nbsp;  
+  allocate a bunch of ASes from the test range (64512 and above).
+  &nbsp;
   This could be cool because I could join my BGP based Calico network in. It
   does mean configuring some routing software (probably Quagga). I may still
   revisit this, but it wasn't what I chose to do.

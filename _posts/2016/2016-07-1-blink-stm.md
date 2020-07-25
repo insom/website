@@ -1,8 +1,9 @@
-+++
-date = "2016-07-01T12:00:00Z"
-title = "Program 'Hello World' to an STM32F103C8, without an ST-Link"
-type = "journal"
-+++
+---
+date: "2016-07-01T12:00:00Z"
+title: "Program 'Hello World' to an STM32F103C8, without an ST-Link"
+type: "journal"
+layout: post
+---
 
 In May, Kevin Cuzner [posted instructions on bootstrapping a Cortex M3
 microcontroller without a dev board][db]. It hit Hackaday and grabbed my

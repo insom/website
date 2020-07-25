@@ -1,8 +1,9 @@
-+++
-date = "2016-06-06T21:04:29Z"
-title = "Forth: Nokia LCD (finale)"
-type = "journal"
-+++
+---
+date: "2016-06-06T21:04:29Z"
+title: "Forth: Nokia LCD (finale)"
+type: "journal"
+layout: post
+---
 
 I got my [Forth green square][fgs].
 

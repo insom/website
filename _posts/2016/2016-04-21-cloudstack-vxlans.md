@@ -1,8 +1,9 @@
-+++
-date = "2016-04-21T19:05:09Z"
-title = "Giving up on Cachet, diving into CloudStack VXLANs"
-type = "journal"
-+++
+---
+date: "2016-04-21T19:05:09Z"
+title: "Giving up on Cachet, diving into CloudStack VXLANs"
+type: "journal"
+layout: post
+---
 
 I've officially [bowed out of adding multiple API keys to Cachet][bow]. It
 feels bad, but it feels better than just continuing to leave an open PR

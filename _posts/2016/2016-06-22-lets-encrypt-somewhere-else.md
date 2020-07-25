@@ -1,8 +1,9 @@
-+++
-date = "2016-06-22T22:02:12Z"
-title = "Generating a Let's Encrypt certificate from a different machine"
-type = "journal"
-+++
+---
+date: "2016-06-22T22:02:12Z"
+title: "Generating a Let's Encrypt certificate from a different machine"
+type: "journal"
+layout: post
+---
 
 This one is basically a HOWTO I've been meaning to write up. I may need a whole
 new template in Hugo for this kind of thing, if I make a habit of it.

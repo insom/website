@@ -1,8 +1,9 @@
-+++
-date = "2016-06-11T19:06:29Z"
-title = "Recursive ATmega programmer programming"
-type = "journal"
-+++
+---
+date: "2016-06-11T19:06:29Z"
+title: "Recursive ATmega programmer programming"
+type: "journal"
+layout: post
+---
 
 I am become yak, destroyer of progress.
 

@@ -1,8 +1,9 @@
-+++
-date = "2016-03-27T23:25:04Z"
-title = "Contribution streak: Modern PHP"
-type = "journal"
-+++
+---
+date: "2016-03-27T23:25:04Z"
+title: "Contribution streak: Modern PHP"
+type: "journal"
+layout: post
+---
 
 (If you think things have been quiet on the journal front, [check out the
 updates to my Z80 project][u] - I've been doing those instead for a few days)

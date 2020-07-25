@@ -1,8 +1,9 @@
-+++
-date = "2016-04-06T18:05:04Z"
-title = "Contribution streak: Ansible modules"
-type = "journal"
-+++
+---
+date: "2016-04-06T18:05:04Z"
+title: "Contribution streak: Ansible modules"
+type: "journal"
+layout: post
+---
 
 Look at those gaps!
 

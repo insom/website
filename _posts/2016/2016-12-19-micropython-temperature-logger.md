@@ -1,8 +1,9 @@
-+++
-date = "2016-12-19T16:00:00Z"
-title = "ESP8266 and MicroPython Temperature Logger"
-type = "journal"
-+++
+---
+date: "2016-12-19T16:00:00Z"
+title: "ESP8266 and MicroPython Temperature Logger"
+type: "journal"
+layout: post
+---
 
 My furnace is broken. Again.
 

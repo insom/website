@@ -1,8 +1,9 @@
-+++
-date = "2016-09-25T16:00:00Z"
-title = "Ruby Practice"
-type = "journal"
-+++
+---
+date: "2016-09-25T16:00:00Z"
+title: "Ruby Practice"
+type: "journal"
+layout: post
+---
 
 I got a new job in a new place, and with that job comes a new set of
 programming languages.

@@ -1,8 +1,9 @@
-+++
-date = "2016-12-27T16:00:00Z"
-title = "Measuring Frequency Response"
-type = "journal"
-+++
+---
+date: "2016-12-27T16:00:00Z"
+title: "Measuring Frequency Response"
+type: "journal"
+layout: post
+---
 
 In my short electronics career, I've built headphone and power
 amplifiers, including a valve amp, and a microphone pre-amp of [my own

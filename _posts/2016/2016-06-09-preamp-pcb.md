@@ -1,8 +1,9 @@
-+++
-date = "2016-06-09T22:04:29Z"
-title = "Pre-amp PCB design"
-type = "journal"
-+++
+---
+date: "2016-06-09T22:04:29Z"
+title: "Pre-amp PCB design"
+type: "journal"
+layout: post
+---
 
 I'm sure I'm not the only person who does this:
 
