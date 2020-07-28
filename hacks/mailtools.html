@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head>
+  <title>insom.me.uk - Aaron Brady</title>
+  <link rel="stylesheet" href="/site.css" type="text/css"/>
+  <link rel="rss" href="/xml/rss20.xml" type="application/rss+xml"/>
+ </head>
+ <body>
+ <h2 id="vv"><span>VirtualVitriol</span></h2>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3018890729791631";
+google_alternate_color = "FFFFFF";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_channel ="";
+google_ad_type = "text_image";
+google_color_border = "F0F0F0";
+google_color_bg = "F0F0F0";
+google_color_link = "333333";
+google_color_url = "3366FF";
+google_color_text = "666666";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<h1>Python Snippets: Saving &amp; Stripping Attachments from Mailboxes</h1>
+
+<h2>Update: 26/10/2003</h2>
+
+<p>save.py and strip.py have been altered to be more cross-platform. This means using <code>PortableUnixMailbox</code> for parsing, opening files with 'wb' instead of 'w', and making directory names using <code>os.path.join()</code>, not <code>"%s/%s" % (d, f).</code></p>
+
+<p>Also, I've added a pythonic POP3 checking program. This is discussed
+further in this <a href="http://insom.me.uk/blog/Tech/Python/mailtools2.writeback">blog entry</a>.</p>
+
+<h2>getmail.py</h2>
+
+<p><a href="getmail.py">getmail.py</a> takes a sequence of tuples specifying mail accounts
+and filters, and endeavours to check mail and, well, filter it.</p>
+
+<p>You can alter the default sequence of accounts, and easily create your own
+filters by either altering the source, or importing it as a module and
+calling <code>check()</code> yourself.</p>
+
+<p>The fourth part of the tuple can either be a string, to save all mail to a
+file, or a function. This function will be passed the whole account tuple
+and the body of the message as arguments.  It performs its own logic, and
+returns a suitable file descriptor to write to. A <code>null_file</code>
+file object is included, to drop mails.</p>
+
+<h2>save.py</h2>
+
+<p><a href="save.py">save.py</a> takes as its arguments a mailbox file, a
+mime-type and a directory. It simply scans through the mailbox, looking
+for attachments of mime-type, and saves them in the directory. Simple, no?
+It will actually match partial mime-types also, so you can use 'image/' to
+match 'image/jpeg', 'image/gif', etc.</p>
+
+<h3>Typical Usage:</h3>
+
+<pre><code>save.py ~/mail/yahoo 'image/' ~/images
+</code></pre>
+
+<h2>strip.py</h2>
+
+<p><a href="strip.py">strip.py</a> takes a mailbox file and mime-type only, and goes through
+each mail in mailbox, reads it, removes attachments matching mime-type, and
+prints it to stdout in mbox format.</p>
+
+<h3>Typical Usage:</h3>
+
+<pre><code>strip.py ~/mail/cl 'application/' &amp;gt; ~/mail/cl.stripped
+mv ~/mail/cl.stripped ~/mail/cl&lt;/code&gt;
+</code></pre>
+  <div id="copyright">
+   &copy; 2002-2005 <a href="mailto:bradya@gmail.com">Aaron Brady</a>
+  </div>
+  <div id="nav">
+   <a href="/">Home</a> - <a href="..">Up One Level</a> - <a href="mailto:bradya@gmail.com">Email</a> - <a href="/cv.html">Curriculum Vitae</a>
+  </div>
+ </body>
+</html>
