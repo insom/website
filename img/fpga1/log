@@ -1,0 +1,43 @@
+lappy:~/Downloads/MC/Microcomputer/output_files aaron$ sudo openocd -f ~/aaron.cfg
+Open On-Chip Debugger 0.10.0-dev-00324-g12ff09f (2016-07-02-21:04)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+Warn : Adapter driver 'usb_blaster' did not declare which transports it allows; assuming legacy JTAG-only
+Info : only one transport option; autoselect 'jtag'
+Warn : incomplete ublast_vid_pid configuration
+Info : usb blaster interface using libftdi
+Info : This adapter doesn't support configurable speed
+Info : JTAG tap: c4e6.tap tap/device found: 0x020f10dd (mfg: 0x06e (Altera), part: 0x20f1, ver: 0x0)
+Warn : gdb services need one or more targets defined
+
+lappy:~ aaron$ telnet localhost 4444
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+Open On-Chip Debugger
+> svf Chain1.svf
+svf processing file: "Chain1.svf"
+FREQUENCY 2.50E+07 HZ;
+Translation from khz to jtag_speed not implemented
+in procedure 'svf' 
+in procedure 'ocd_bouncer'
+TRST ABSENT;
+ENDDR IDLE;
+ENDIR IRPAUSE;
+STATE IDLE;
+SIR 10 TDI (002);
+RUNTEST IDLE 25000 TCK ENDSTATE IDLE;
+	FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6D10FAFAFAFAFAF8F8F8F8F8F9F8F9FBFAFBFAF9F8F8FAFAF9F9F9F9F9F1F1FBFBFBFBF3F7F7F7F7F7F76AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF);
+SIR 10 TDI (004);
+RUNTEST 125 TCK;
+	000000000400000000000000000000000000000000000000000000000000000000) MASK (0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000);
+SIR 10 TDI (003);
+RUNTEST 102400 TCK;
+RUNTEST 512 TCK;
+SIR 10 TDI (3FF);
+RUNTEST 25000 TCK;
+STATE IDLE;
+
+Time used: 0m1s299ms 
+svf file programmed successfully for 17 commands with 0 errors
