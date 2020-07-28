@@ -2,9 +2,6 @@
 title: iPod 5G Stand, kind of
 layout: post
 date: 2010-07-02
-url: /2010/07/ipod-5g-stand-kind-of/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

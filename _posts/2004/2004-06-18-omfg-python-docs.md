@@ -1,6 +1,7 @@
 ---
 title: Updated libos.tex
 date: 2004-06-18
+layout: post
 ---
 
 ![Line 380 of libos.tex](/Gfx/PythonFame.png)

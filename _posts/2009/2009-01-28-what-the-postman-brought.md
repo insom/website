@@ -1,6 +1,7 @@
 ---
 title: What the Postman Brought
 data: 2009-01-28
+layout: post
 ---
 
 Monday was a good day for post!

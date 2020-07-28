@@ -1,6 +1,7 @@
 ---
 title: "Mini-Pattern: Object Method to Separate Thread"
 date: 2004-07-05
+layout: post
 ---
 
 If you have a method on an object that doesn't return and that takes a long

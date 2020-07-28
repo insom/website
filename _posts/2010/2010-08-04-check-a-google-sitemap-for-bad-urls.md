@@ -2,9 +2,6 @@
 title: Check a Google Sitemap for bad URLs
 layout: post
 date: 2010-08-04
-url: /2010/08/check-a-google-sitemap-for-bad-urls/
-categories:
-  - Uncategorized
 ---
 Create cagsmfbu.py:
 

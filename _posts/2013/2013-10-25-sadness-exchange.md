@@ -2,9 +2,6 @@
 title: Sadness Exchange
 layout: post
 date: 2013-10-25
-url: /2013/10/sadness-exchange/
-categories:
-  - Uncategorized
 ---
 Someone posted a link to [ServerFault&rsquo;s &lsquo;magento&rsquo; tag][1], which drew me in and I answered a few questions to boost my (pathetic) karma on the StackExchange sites.
 
@@ -14,7 +11,7 @@ There&rsquo;s lots of people just trying to solve their problems and getting hel
 
 [This question on Bicycles StackExchange][3], &ldquo;Can a bent hub damage my fork?&rdquo; is the latest in a series of questions which could be rephrased as &ldquo;How dangerous does my bike have to become before I fix it?&rdquo;. To their credit, the community does jump in:
 
-> &ldquo;If the axle is bent, the fork would only be my second concern, right after my teeth.&rdquo; &mdash; [arne][4] 
+> &ldquo;If the axle is bent, the fork would only be my second concern, right after my teeth.&rdquo; &mdash; [arne][4]
 
 I think ServerFault gets me the most, because, as a system administrator _and_ a programmer, I feel that there&rsquo;s a higher bar (or that there should be) to looking after servers than for running code, in the level of experience you should have before doing important things.
 

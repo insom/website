@@ -2,9 +2,6 @@
 title: Door Etiquette
 layout: post
 date: 2010-08-18
-url: /2010/08/door-etiquette/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

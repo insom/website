@@ -1,6 +1,7 @@
 ---
 title: Checking for drives on Windows
 date: 2004-01-09
+layout: post
 ---
 
 If I'd only known it was this easy...

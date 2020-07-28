@@ -1,6 +1,7 @@
 ---
 title: Office Irrigation System
 date: 2007-05-01
+layout: post
 ---
 
 What do you do when you're growing tomatoes at the office, but the nearest

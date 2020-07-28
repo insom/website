@@ -2,9 +2,6 @@
 title: Collecting for the Apocalypse that will Never Happen
 layout: post
 date: 2014-05-17
-url: /2014/05/collecting-for-the-apocalypse-that-will-never-happen/
-categories:
-  - Uncategorized
 ---
 I [recently sorted through 5 years of Twitter favourites][1] (alongside quite a few App.net stars). I knew that I was building a debt up, but hadn&rsquo;t realised that I&rsquo;d gone past the 500-tweet mark. That&rsquo;s really the point where extreme measures are required- that or declaring tweet bankruptcy.
 
@@ -44,16 +41,16 @@ When I had dial-up Internet, I kept my downloads in a folder on my PC. Disk spac
 This is a habit I&rsquo;ve kept, even though the whole geography of the Internet has changed- it&rsquo;s not really made up of deep nooks of hidden information, it&rsquo;s a giant morass of brightly coloured distractions, heavily indexed with complete sets of meta-data.
 
 > _Sidebar_:
-> 
+>
 > This works in the real world too. When I recently moved house I was forced to sift through a _lot_ of spare electronics parts that I had accumulated over the years.
-> 
+>
 > This was all badly organised to the point that I didn&rsquo;t always even know what I had. Even more annoyingly, I frequently knew I had something but didn&rsquo;t know where- it was hidden in with a bunch of crap I didn&rsquo;t need at all
-> 
+>
 > I have moved to a [Just in Time][6] model: except for things that were very expensive to obtain and that I will clearly need exactly that part in the future- I donated it all.
-> 
+>
 > Need a really really long HDMI lead? An IDC10 lead that&rsquo;s just the right length? Super-bright LEDs to finish off your project? That one obscure adaptor to go from iPod headset headphones to a separate mic and headphone plug? The Internet has you covered: you can have it next day for very little money, and in a few weeks from Shenzhen for even less.
-> 
-> Thanks for your attention. 
+>
+> Thanks for your attention.
 
 The right four word phrase is almost guaranteed to being up any article I might want to reference later. I&rsquo;ve had bookmarks for resources on learning foreign languages: these only serve to make me feel guilty about the languages that I can&rsquo;t yet speak, and to make using the Internet feel like a giant sisyphean task- to get to the end of my bookmarks.
 

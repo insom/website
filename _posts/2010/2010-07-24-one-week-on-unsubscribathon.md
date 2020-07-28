@@ -2,9 +2,6 @@
 title: 'One Week On- Unsubscribathon'
 layout: post
 date: 2010-07-24
-url: /2010/07/one-week-on-unsubscribathon/
-categories:
-  - Uncategorized
 ---
 ![Look at those small numbers!][1]
 

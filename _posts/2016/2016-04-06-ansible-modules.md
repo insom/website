@@ -7,7 +7,7 @@ layout: post
 
 Look at those gaps!
 
-![An Imperfect Record](https://insom.iweb-storage.com/public/files/635b759d.png?inline=1)
+![An Imperfect Record](https://insm.cf/=/635b759d.png)
 
 I think that chasing green squares has become too cynical for me&mdash; it's
 caused me to neglect a larger PR (on Cachet) because starting fresh, smaller,

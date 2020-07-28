@@ -2,9 +2,6 @@
 title: 13A Plugs For the Win
 layout: post
 date: 2010-10-12
-url: /2010/10/13a-plugs-for-the-win/
-categories:
-  - Uncategorized
 ---
 [RCA student radically improves the UK plug | ICON MAGAZINE ONLINE][1]
 

@@ -1,6 +1,7 @@
 ---
 title: Contract Programming
 date: 2004-10-28
+layout: post
 ---
 
 Posit: Contract programming is a business destined to deliver "bad" products.
@@ -31,4 +32,4 @@ Ergo: The only way to develop quality software, is to work for yourself, and ult
 
 [^1]: I've developed a lot of intranet applications; when there is no choice, users will put up with most usability failings.
 
-    In fact, I've had people overload fields rather than ask for extra ones; something I completely don't understand. (For example, naming something "Hotel Name 5 Star" instead of asking me to enter a "Star Rating" field for the system.) "Five Worlds" from Joel on Software - why internal software sucks. 
+    In fact, I've had people overload fields rather than ask for extra ones; something I completely don't understand. (For example, naming something "Hotel Name 5 Star" instead of asking me to enter a "Star Rating" field for the system.) "Five Worlds" from Joel on Software - why internal software sucks.

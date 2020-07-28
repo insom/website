@@ -1,6 +1,7 @@
 ---
 title: Templating
 date: 2003-08-30
+layout: post
 ---
 
 I have spent three (3) days writing templating code.

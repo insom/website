@@ -1,15 +1,11 @@
 ---
 title: FLOSS DevOps Spring Conference 2015
-author: Aaron Brady
 layout: post
 date: 2015-04-06
-url: /2015/04/floss-devops-spring-conference-2015/
-categories:
-  - Uncategorized
 ---
 A couple of weeks ago some [of][1] [my][2] [colleagues][3] and [I][4] travelled to York for the FLOSS UK Spring Conference (now named DevOps Spring in some places, but not in others&hellip;), and in the spirit of blogging things, I thought I&rsquo;d write up the experience.
 
-The Spring Conference was my first conference experience at [work][5] (in 2011) and is the first place I gave a [proper talk][6] (in 2013). It&rsquo;s also perfectly timed for us at work because it happens before April, when Ubuntu LTS releases come out. 
+The Spring Conference was my first conference experience at [work][5] (in 2011) and is the first place I gave a [proper talk][6] (in 2013). It&rsquo;s also perfectly timed for us at work because it happens before April, when Ubuntu LTS releases come out.
 
 We use the LTS cycle to implement changes to our infrastructure, so new things that we learn at the conference can potentially be put to work right away and it gets the operations team out of the office and able to gather our thoughts for the next cycle.
 
@@ -23,7 +19,7 @@ Anyway, that&rsquo;s the conference in general, but I&rsquo;m writing up this on
 href="https://twitter.com/hashtag/flossuk2015?src=hash">#flossuk2015</a> <a
 href="http://t.co/dGsJylSMVH">pic.twitter.com/dGsJylSMVH</a>
   </p>
-  
+
   <p>
     &mdash; iWeb (@iwebtweets) <a
 href="https://twitter.com/iwebtweets/status/581020766726017025">March 26, 2015</a>
@@ -52,7 +48,7 @@ The Google draw was for a Chromebook, which none of us wanted enough to go out a
 href="https://twitter.com/hashtag/flossuk2015?src=hash">#flossuk2015</a> <a
 href="http://t.co/xmFfmei2Cv">pic.twitter.com/xmFfmei2Cv</a>
   </p>
-  
+
   <p>
     &mdash; Aaron Brady (@insom) <a
 href="https://twitter.com/insom/status/580750271128715265">March 25, 2015</a>
@@ -85,7 +81,7 @@ The lightning talks were also fun (more disclosure: [Ed][3] and I gave one each)
 href="https://twitter.com/iwebtweets">@iwebtweets</a> <a
 href="http://t.co/kJBL9k3wdq">pic.twitter.com/kJBL9k3wdq</a>
   </p>
-  
+
   <p>
     &mdash; Neil Boughton (@NeilBoughton) <a
 href="https://twitter.com/NeilBoughton/status/580773856509591552">March 25, 2015</a>

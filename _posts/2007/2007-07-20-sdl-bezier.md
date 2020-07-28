@@ -1,6 +1,7 @@
 ---
 title: Bezier curves in Python, with SDL
 date: 2007-07-20
+layout: post
 ---
 
 Display some animated bezier curves, using SDL. SDL is about the nicest way

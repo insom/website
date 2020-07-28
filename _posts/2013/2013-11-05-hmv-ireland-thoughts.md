@@ -2,9 +2,6 @@
 title: HMV Ireland Thoughts
 layout: post
 date: 2013-11-05
-url: /2013/11/hmv-ireland-thoughts/
-categories:
-  - Uncategorized
 ---
 [<img src="https://farm9.staticflickr.com/8183/8142489581_33b2de69c7_z.jpg" width="640" height="427" alt="Dublin" />][1]
 

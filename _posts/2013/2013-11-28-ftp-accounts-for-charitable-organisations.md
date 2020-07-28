@@ -2,9 +2,6 @@
 title: FTP Accounts for Charitable Organisations
 layout: post
 date: 2013-11-28
-url: /2013/11/ftp-accounts-for-charitable-organisations/
-categories:
-  - Uncategorized
 ---
 Call it [shilling][1] if you want, but I&rsquo;m always proud when `$WORK` does something for the general good (which, in fairness it does quite a bit of, and then forgets to tell people, like helping to [sponsor the Mad Natters][2] and donating the proceeds of selling our redundant IT kit).
 
@@ -19,7 +16,7 @@ Hopefully I&rsquo;ll be able to follow this up with a great up-take rate, but it
  [1]: http://en.wikipedia.org/wiki/Shill
  [2]: http://galleryrally2012.tumblr.com/
  [3]: https://www.iweb-ftp.co.uk/free-accounts-for-charities.htm
- [4]: https://insom.iweb-storage.com/public/files/3877b64c.png?inline=1
+ [4]: https://insm.cf/=/3877b64c.png
  [5]: https://www.iweb-ftp.co.uk/signup.htm
  [6]: https://www.iweb-ftp.co.uk/contact-ftp-hosting.htm
 

@@ -1,6 +1,7 @@
 ---
 title: New Year's Resolutions
 date: 2004-12-31
+layout: post
 ---
 
 Happy New Year to all of the members of the Python community (and, well,

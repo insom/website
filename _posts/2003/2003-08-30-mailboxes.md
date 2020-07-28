@@ -2,8 +2,6 @@
 title: Handling Mailboxes in Python
 date: 2003-08-30
 layout: post
-author: Aaron Brady
-categories: foo
 ---
 
 I've added two new snippets to the hacks section; [save.py & strip.py](/hacks/mailtools.html) - used to save attachments from a whole mailbox, or strip them, respectively.

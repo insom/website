@@ -1,17 +1,13 @@
 ---
 title: 'Re: Is it right to seek out GPL code for free?'
-author: Aaron Brady
 layout: post
 date: 2015-08-15
-url: /2015/08/re-is-it-right-to-seek-out-gpl-code-for-free/
-categories:
-  - Uncategorized
 ---
-> In this instance, I can’t be sure how much time was actually saved by making use of the extension. But it illustrates the ethical question I’m interested in. If you’re potentially going to save many hours of research/development, is it right to seek out the source code for free? 
+> In this instance, I can’t be sure how much time was actually saved by making use of the extension. But it illustrates the ethical question I’m interested in. If you’re potentially going to save many hours of research/development, is it right to seek out the source code for free?
 
 (and also)
 
-> And for me, I think this is where context is important. There is a difference between someone throwing their code up on GitHub for the world to see and a business selling access and support. 
+> And for me, I think this is where context is important. There is a difference between someone throwing their code up on GitHub for the world to see and a business selling access and support.
 
 The GPL encompasses an ideology as much as it is a license. Originally meant for things which were [being assigned to the FSF anyway][1], it has some provisions beyond the &#8220;share a-like&#8221; clauses which show it&#8217;s heritage- like the ability to upgrade to future, unwritten, versions of the GPL. [Some people don&#8217;t like this][2]. (There are people who don&#8217;t like the GPL for lots of reasons, some of which I agree with, some I don&#8217;t, and some I am pragmatic about).
 

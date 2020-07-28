@@ -2,9 +2,6 @@
 title: Dive into Python 3 Review
 layout: post
 date: 2010-02-16
-url: /2010/02/dive-into-python-3-review/
-categories:
-  - Uncategorized
 ---
 _Obligatory Disclaimer: Like many reviewers, I received my copy of the book for free._
 
@@ -22,11 +19,11 @@ In the online edition Unicode symbols like &#9312; (a circle with the digit &lsq
 
 There also appears to be a few places where the Unicode heavy nature of the online edition hasn&rsquo;t been reproduced correctly, the most glaring being on page 54. At the bottom of the [boring stuff you need to understand][3] section, there&rsquo;s some text which says:
 
-> Now think about the possibility of multilingual documents, where characters from several languages are next to each other in the same document. (Hint: programs that tried to do this typically used escape codes to switch &ldquo;modes.&rdquo; Poof, you&rsquo;re in Russian koi8-r mode, so 241 means &#1071; _(Ed: reversed R)_; poof, now you&rsquo;re in Mac Greek mode, so 241 means &#974; _(Ed: w with a ligature above it)_.) And of course you&rsquo;ll want to search those documents, too. 
+> Now think about the possibility of multilingual documents, where characters from several languages are next to each other in the same document. (Hint: programs that tried to do this typically used escape codes to switch &ldquo;modes.&rdquo; Poof, you&rsquo;re in Russian koi8-r mode, so 241 means &#1071; _(Ed: reversed R)_; poof, now you&rsquo;re in Mac Greek mode, so 241 means &#974; _(Ed: w with a ligature above it)_.) And of course you&rsquo;ll want to search those documents, too.
 
 But in the print edition, you get:
 
-> Now think about the possibility of multilingual documents, where characters from several languages are next to each other in the same document. (Hint: programs that tried to do this typically used escape codes to switch &ldquo;modes.&rdquo; Poof, you&rsquo;re in Russian koi8-r mode, so 241 means &#9633; _(Ed: hollow square)_; poof, now you&rsquo;re in Mac Greek mode, so 241 means &#9633; _(Ed: an identical hollow square)_.) And of course you&rsquo;ll want to search those documents, too. 
+> Now think about the possibility of multilingual documents, where characters from several languages are next to each other in the same document. (Hint: programs that tried to do this typically used escape codes to switch &ldquo;modes.&rdquo; Poof, you&rsquo;re in Russian koi8-r mode, so 241 means &#9633; _(Ed: hollow square)_; poof, now you&rsquo;re in Mac Greek mode, so 241 means &#9633; _(Ed: an identical hollow square)_.) And of course you&rsquo;ll want to search those documents, too.
 
 Which completely reverses the meaning of this _fairly important_ piece of information. Now, this information is re-iterated throughout the book (see later), so you won&rsquo;t be confused for long, but what&rsquo;s really annoying is how they have correctly printed an [interrobang][4] just 3 inches below! It&rsquo;s not just international characters, the odd &emdash; is displayed as a block too (like page 173).
 
@@ -38,7 +35,7 @@ There&rsquo;s almost nothing to criticise about the _content_ of the book- anyth
 
 For example, the book is a narrative. It&rsquo;s like &hellip; a story which by reading, you gain Python knowledge. One of the things which highlights this for me is on page 157 of the print edition (the [refactoring][5] section):
 
-> I don&rsquo;t think I&rsquo;ve mentioned this yet anywhere in this book, so let this serve as your final lesson in string formatting. Starting in Python 3.1, you can skip the numbers when using positional indexes in a format specifier. 
+> I don&rsquo;t think I&rsquo;ve mentioned this yet anywhere in this book, so let this serve as your final lesson in string formatting. Starting in Python 3.1, you can skip the numbers when using positional indexes in a format specifier.
 
 If you skipped the refactoring section, more fool you if you get confused by code which doesn&rsquo;t use positional indices. You could say that when writing this that the author might have revisited the chapter on strings and put it in there but &hellip; it&rsquo;s kind of charming, taken in the context of the whole book.
 

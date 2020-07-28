@@ -2,11 +2,8 @@
 title: Terrible grammar in the Economist
 layout: post
 date: 2010-11-19
-url: /2010/11/terrible-grammar-in-the-economist/
-categories:
-  - Uncategorized
 ---
-> IRELAND, says the country&rsquo;s finance minister, Brian Lenihan, does not need a bail-out from the European Union, the IMF or anyone else, and it has not asked for one. 
+> IRELAND, says the country&rsquo;s finance minister, Brian Lenihan, does not need a bail-out from the European Union, the IMF or anyone else, and it has not asked for one.
 
 &mdash; &ldquo;[Ireland&rsquo;s Economy: Threadbare][1]&ldquo;, _The Economist_
 

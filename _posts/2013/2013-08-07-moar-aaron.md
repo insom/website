@@ -2,13 +2,10 @@
 title: Moar Aaron
 layout: post
 date: 2013-08-07
-url: /2013/08/moar-aaron/
-categories:
-  - Uncategorized
 ---
 My short post on [Responsive Designs vs. Traditional Builds][1] is up on $WORK&rsquo;s blog. While I&rsquo;m not a designer, playing with this stuff has been fun. Responsive web design makes CSS almost programmerish by adding what is essentially a `if` statement to the language.
 
-You can [follow me][2] (and this blog, which auto-posts using [Pour-Over][3]) on pay-to-play microblogging site [App.net][4]. If you [use this link to create an account][5], you&rsquo;ll automatically follow me and I&rsquo;ll get a small amount of extra space on the service.
+<strike>You can follow me (and this blog, which auto-posts using Pour-Over) on pay-to-play microblogging site App.net. If you use this link to create an account, you&rsquo;ll automatically follow me and I&rsquo;ll get a small amount of extra space on the service.</strike><br>
 
 (I also worked on a screenshot-tastic post for iWeb FTP for people [getting started with the service][6] that probably isn&rsquo;t of too much interest to this audience, but consider it linked-to.)
 
@@ -24,19 +21,12 @@ I replaced the stock 92mm with this [Arctic Cooling F9 PWM controlled one][10] (
 
 I spent some time playing with it and even resolved to use a small microcontroller to &ldquo;fake&rdquo; 1900RPM to the sense pin, but in the end just leaving the fourth pin disconnected (pictured) keeps the fan spinning fast enough and it&rsquo;s quieter than the stock fan even when it stays at 100% all of the time. I butchered the old fan&rsquo;s cable to do this and then used heat-shrink to make everything look un-butchered.
 
-I may revisit this, for kicks. I even got to [break out my oscilloscope][12] while trying to get everything to work.
+I may revisit this, for kicks. I even got to break out my oscilloscope while trying to get everything to work.
 
  [1]: http://www.iwebsolutions.co.uk/blog/responsive-designs-vs-traditional-builds/
- [2]: https://alpha.app.net/insom
- [3]: https://adn-pourover.appspot.com/
- [4]: https://join.app.net/
- [5]: https://join.app.net/signup?group=zvtdcfgvqd
  [6]: http://blog.iweb-ftp.co.uk/features/getting-started-with-iweb-ftp/
  [7]: https://www.flickr.com/photos/insomnike/9460173470/ "Untitled by insomnike, on Flickr"
  [8]: https://en.wikipedia.org/wiki/Bottom_bracket
  [9]: https://www.flickr.com/photos/insomnike/9457390801/ "Untitled by insomnike, on Flickr"
  [10]: http://www.amazon.co.uk/gp/product/B002G3CN22/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B002G3CN22&linkCode=as2&tag=virtuvitri-21
  [11]: http://en.wikipedia.org/wiki/Power-on_self-test
- [12]: http://twitter.yfrog.com/mz6dfroyhmvzpiwuqcjwjfwhz?sa=0
-
-

@@ -1,11 +1,7 @@
 ---
 title: What You Should Read (Mid December Fudge Post)
-author: Aaron Brady
 layout: post
 date: 2014-12-09
-url: /2014/12/what-you-should-read-mid-december-fudge-post/
-categories:
-  - Uncategorized
 ---
 Ugh, I feel blogging debt. I&#8217;ve done little bits of cool things and collected ephemera around the Internet but I&#8217;ve been busy with _a thing_ so I&#8217;ve neglected by blog. Here&#8217;s a quick post full of links to kind-of make up for it.
 
@@ -17,7 +13,7 @@ My main blog has no analytics, and this WordPress only has the basics. I even fo
 
 ## [Elon Musk, Our Saviour, the Supervillain][6] &#8211; Erik Sofge
 
-> Thus, despite all the passing comparisons to Tony Stark, a more accurate pop-culture reference point for Elon Musk is the generic mad scientist. He&#8217;s one act of hubris &#8212; or misguided paternalism &#8212; away from wreaking havoc on Earth and beyond. 
+> Thus, despite all the passing comparisons to Tony Stark, a more accurate pop-culture reference point for Elon Musk is the generic mad scientist. He&#8217;s one act of hubris &#8212; or misguided paternalism &#8212; away from wreaking havoc on Earth and beyond.
 
 This is the first of two unrelated but similar background pieces on Musk. I have to admire someone who&#8217;s looking at the long term. It seems that in the worst case, he&#8217;s wrong and wastes his fortune making the world a much better place.
 
@@ -25,15 +21,15 @@ This is the first of two unrelated but similar background pieces on Musk. I have
 
 This is long, but helpfully you have have the nearly 7,000 words delivered straight to your Kindle. To ensure our survival, Elon Musk wants to put a million people on Mars.
 
-> Musk told me this first group of settlers will need to pay their own way. ‘There needs to be an intersection of the set of people who wish to go, and the set of people who can afford to go,’ he said. ‘And that intersection of sets has to be enough to establish a self-sustaining civilisation. My rough guess is that for a half-million dollars, there are enough people that could afford to go and would want to go. But it’s not going to be a vacation jaunt. It’s going to be saving up all your money and selling all your stuff, like when people moved to the early American colonies.’ 
+> Musk told me this first group of settlers will need to pay their own way. ‘There needs to be an intersection of the set of people who wish to go, and the set of people who can afford to go,’ he said. ‘And that intersection of sets has to be enough to establish a self-sustaining civilisation. My rough guess is that for a half-million dollars, there are enough people that could afford to go and would want to go. But it’s not going to be a vacation jaunt. It’s going to be saving up all your money and selling all your stuff, like when people moved to the early American colonies.’
 
 ## [The case for Slow Programming][8] &#8211; Jeffrey Ventrella
 
 Maybe we don&#8217;t need to invent another dozen JavaScript frameworks next year?
 
 > My wife often comes out into the yard and asks me: “are you coding?” Often my answer is “yes”. Usually I am cutting twigs with a garden clipper, or moving compost around.
-> 
-> Plants, dirt, and clippers have just as much to do with programming as keyboards and glowing screens. 
+>
+> Plants, dirt, and clippers have just as much to do with programming as keyboards and glowing screens.
 
 I&#8217;ll have more to share soon!
 

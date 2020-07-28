@@ -1,6 +1,7 @@
 ---
 title: On the responsibility of running a well-linked website
 date: 2004-06-13
+layout: post
 ---
 
 My website, like most people's, is just a

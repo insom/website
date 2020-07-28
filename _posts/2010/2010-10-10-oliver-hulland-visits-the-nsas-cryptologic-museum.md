@@ -2,9 +2,6 @@
 title: Oliver Hulland visits the NSA’s Cryptologic Museum
 layout: post
 date: 2010-10-10
-url: /2010/10/oliver-hulland-visits-the-nsas-cryptologic-museum/
-categories:
-  - Uncategorized
 ---
 [theatlantic][1]{.tumblr_blog}:
 

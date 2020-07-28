@@ -2,9 +2,6 @@
 title: When I woke up I felt fine
 layout: post
 date: 2011-12-11
-url: /2011/12/when-i-woke-up-i-felt-fine/
-categories:
-  - Uncategorized
 ---
 When I woke up I felt fine.
 

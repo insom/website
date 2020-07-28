@@ -2,9 +2,6 @@
 title: Retrochallenge Update
 layout: post
 date: 2014-01-10
-url: /2014/01/retrochallenge-update/
-categories:
-  - Uncategorized
 ---
 Auuuauagh, progress. I know that the worst thing you can do when you&rsquo;re not making progress on something is disappear and not update anyone, so let me update you on my lack of progress:
 

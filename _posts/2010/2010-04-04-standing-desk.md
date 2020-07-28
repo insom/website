@@ -2,9 +2,6 @@
 title: Standing Desk
 layout: post
 date: 2010-04-04
-url: /2010/04/standing-desk/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

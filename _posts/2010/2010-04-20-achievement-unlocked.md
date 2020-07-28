@@ -2,9 +2,6 @@
 title: Achievement Unlocked
 layout: post
 date: 2010-04-20
-url: /2010/04/achievement-unlocked/
-categories:
-  - Uncategorized
 ---
 [That&rsquo;s three hours of my life I&rsquo;m not getting back][1]
 

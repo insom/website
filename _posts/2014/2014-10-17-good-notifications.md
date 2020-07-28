@@ -2,9 +2,6 @@
 title: Good Notifications
 layout: post
 date: 2014-10-17
-url: /2014/10/good-notifications/
-categories:
-  - Uncategorized
 ---
 Hating notifications is all the rage, I&rsquo;ve done it myself: I huff at people who break off mid-conversation to see who&rsquo;s retweeted them; my wife&rsquo;s phone _and_ tablet sound loudly if someone on the Internet says her name. (Possibly in front of a mirror? I&rsquo;m not sure how this works)
 
@@ -12,8 +9,8 @@ I&rsquo;ve been swayed by the [Minimal iPhone][1] blog posts and I&rsquo;ve writ
 
 But I&rsquo;ve recently noticed an unproductive habit: checking and rechecking web sites and applications. You could label it [fear of missing out][4], and it is, but it&rsquo;s also because for my job I have a mixture of job roles that can be broadly defined as two things:
 
-  * Getting lost in deep thought: Dig into errant programs in GDB. Hold the context of IOS routers and network diagrams in my head. Trace tricky race conditions and untangle failing tests. Write and copy-edit various documentation, blog posts and marketing material. 
-  * Reacting immediately: Answering support calls from customers. Dealing with a site outage or a failed router. Restoring something from a backup _now_. Unscheduled meetings. Failures of planning on other people&rsquo;s parts. 
+  * Getting lost in deep thought: Dig into errant programs in GDB. Hold the context of IOS routers and network diagrams in my head. Trace tricky race conditions and untangle failing tests. Write and copy-edit various documentation, blog posts and marketing material.
+  * Reacting immediately: Answering support calls from customers. Dealing with a site outage or a failed router. Restoring something from a backup _now_. Unscheduled meetings. Failures of planning on other people&rsquo;s parts.
 
 I really want to like the first type of work, it&rsquo;s the most fulfilling in the long term, but like most people, I find it really easy to fall into the trap of doing lots of the second kind of work. I feel the dopamine kick of getting something done, even if the thing was as trivial as a DNS update a customer asked for in a ticket.
 

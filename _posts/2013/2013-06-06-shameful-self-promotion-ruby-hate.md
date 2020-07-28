@@ -2,9 +2,6 @@
 title: Shameful Self Promotion / Ruby Hate
 layout: post
 date: 2013-06-06
-url: /2013/06/shameful-self-promotion-ruby-hate/
-categories:
-  - Uncategorized
 ---
 #### Ruby Hate {#ruby-hate}
 
@@ -16,15 +13,13 @@ I very nearly ended up using Octopress for this blog, instead of rolling my own 
 
 If anyone is doing this again, on Mac OS X 10.8 with Xcode and [Homebrew][6] installed:
 
-<div class="codehilite">
-  <pre>brew install rbenv
+```
+brew install rbenv
 brew install ruby-build
-rehash <span class="c"># zsh caches its paths</span>
+rehash
 rbenv install 1.9.3-p125
-rbenv <span class="nb">local </span>1.9.3-p125
-<span class="nb">export </span><span class="nv">PATH</span><span class="o">=</span><span class="k">$(</span>dirname <span class="k">$(</span>rbenv which gem<span class="k">))</span>:<span class="nv">$PATH</span>
-</pre>
-</div>
+rbenv 1.9.3-p125
+```
 
 [The Octopress docs][7] recommend building 1.9.3-p0 but ruby-build complains that my version of GCC is wrong, as it&rsquo;s actually LLVM in GCC&rsquo;s clothing. It then recommended installing GCC from [Homebrew-Dupes][8] and a life of heavy drinking, so I took the coward&rsquo;s way out and built 1.9.3-p125 which is actually LLVM compatible.
 
@@ -38,10 +33,10 @@ I put myself through this gauntlet of hate after working with [Andrew McCombe][9
 
 Finally, [ICYMI][11], here are some articles of a technical nature I&rsquo;ve written for the [iWeb Hosting Blog][12] and for [iWeb FTP][13]:
 
-  * [Moving Varnish Caching Logic Into PHP&hellip;][14] &#8211; I wouldn&rsquo;t even remotely recommend doing this anymore, and we never did in production, but the technical details are still kind of neat, I think. 
-  * [Diagnosing Magento Speed Issues With Strace][15] and gdb, too. This needs expanding, as I&rsquo;ve spent the 6 months inbetween getting progressively better at debugging PHP scripts by poking around the runtime. 
-  * [Apache Space Core Module][16]. An introduction into writing your own Apache module that I decided to completely ignore when Darren, Ed and I wrote a new Apache module for internal use last week. I followed someone else&rsquo;s example instead. No comment. 
-  * [Using BGP to Serve High-Availability DNS][17]. If you have a BGP hammer, everything looks like a routing problem &hellip; nail &hellip; thing. Regardless of the analogy, this approach has been rock solid, and I&rsquo;m very proud of it. We&rsquo;ve extended its use to active-passive fail-over of HTTP proxy servers, with similar, great, results. If you already have BGP in your life, adding this means not having to learn [Pacemaker][18]. 
+  * [Moving Varnish Caching Logic Into PHP&hellip;][14] &#8211; I wouldn&rsquo;t even remotely recommend doing this anymore, and we never did in production, but the technical details are still kind of neat, I think.
+  * [Diagnosing Magento Speed Issues With Strace][15] and gdb, too. This needs expanding, as I&rsquo;ve spent the 6 months inbetween getting progressively better at debugging PHP scripts by poking around the runtime.
+  * [Apache Space Core Module][16]. An introduction into writing your own Apache module that I decided to completely ignore when Darren, Ed and I wrote a new Apache module for internal use last week. I followed someone else&rsquo;s example instead. No comment.
+  * [Using BGP to Serve High-Availability DNS][17]. If you have a BGP hammer, everything looks like a routing problem &hellip; nail &hellip; thing. Regardless of the analogy, this approach has been rock solid, and I&rsquo;m very proud of it. We&rsquo;ve extended its use to active-passive fail-over of HTTP proxy servers, with similar, great, results. If you already have BGP in your life, adding this means not having to learn [Pacemaker][18].
   * [Six Reasons not to Run your own FTP Server][19] &#8211; my first listicle! Okay, it&rsquo;s a bit salesy, but there&rsquo;s no word of a lie in there.
 
  [1]: http://flask.pocoo.org/

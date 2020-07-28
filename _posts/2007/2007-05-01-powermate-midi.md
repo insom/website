@@ -1,6 +1,7 @@
 ---
 title: PowerMate to MIDI on Linux
 date: 2007-05-01
+layout: post
 ---
 
 Takes (as a parameter) a Linux event device with a wheel, let's say a

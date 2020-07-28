@@ -2,9 +2,6 @@
 title: Hello (Blink) World
 layout: post
 date: 2013-05-22
-url: /2013/05/hello-blink-world/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

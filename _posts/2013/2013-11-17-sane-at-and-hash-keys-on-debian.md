@@ -2,9 +2,6 @@
 title: Sane At and Hash keys on Debian
 layout: post
 date: 2013-11-17
-url: /2013/11/sane-at-and-hash-keys-on-debian/
-categories:
-  - Uncategorized
 ---
 I say sane, and I&rsquo;m not being totally fair:
 

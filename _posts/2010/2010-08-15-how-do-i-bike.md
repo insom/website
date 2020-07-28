@@ -2,9 +2,6 @@
 title: How do I bike?
 layout: post
 date: 2010-08-15
-url: /2010/08/how-do-i-bike/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

@@ -2,9 +2,6 @@
 title: Dusting off my CV
 layout: post
 date: 2013-06-03
-url: /2013/06/dusting-off-my-cv/
-categories:
-  - Uncategorized
 ---
 Let me start this post with a really, really big notice:
 
@@ -14,12 +11,12 @@ I did dig out my CV recently though, which has lived at some variant of [http://
 
 I thought it would be interesting to revisit it and put together a new version, now that I know what _I_ would look for when hiring someone, and now that I&rsquo;m more mature and know a bit more about what jobs you do and don&rsquo;t want to get offered.
 
-> I am a multi-skilled developer who believes that a good knowledge software development is applicable in any language, and rapidly learns new ones. I am interested in _Agile_ processes, but also quite happy with more traditional project management. I have proven management experience, from both software and business points of view and possess first class analytical, problem solving and people skills. I can explain technical things to less technical people. I have knowledge of computing from low-level bit-moving to functional abstractions. (I would rather be at the &ldquo;high&rdquo; end of that scale). I am dedicated to achieving and maintaining high standards. 
+> I am a multi-skilled developer who believes that a good knowledge software development is applicable in any language, and rapidly learns new ones. I am interested in _Agile_ processes, but also quite happy with more traditional project management. I have proven management experience, from both software and business points of view and possess first class analytical, problem solving and people skills. I can explain technical things to less technical people. I have knowledge of computing from low-level bit-moving to functional abstractions. (I would rather be at the &ldquo;high&rdquo; end of that scale). I am dedicated to achieving and maintaining high standards.
 
 I&rsquo;m actually kind of pleased with how this has aged! I might tweak the fact that I actually really enjoy getting my hands dirty at the low level, now and then. (Days when I write C are normally better than days when I write PHP). It&rsquo;s a bit long too. Is &ldquo;I am dedicated to achieving and maintaining high standards.&rdquo; adding anything?
 
 > Meta-skills:
-> 
+>
 >   * Dynamic Languages (Lisp, Smalltalk, Scheme)
 >   * Web Architecture (REST, HTTP/web server stack)
 >   * Project Management
@@ -40,7 +37,7 @@ I&rsquo;ll skip the languages part, it needs updating to be accurate, and I will
 Skipping to what I&rsquo;ve even brashly called &ldquo;Buzzwords&rdquo;:
 
 > Technologies, buzzwords:
-> 
+>
 >   * XML, HTML, CSS.
 >   * Unix, Linux, FreeBSD, Solaris, Windows.
 >   * WAP, SMS, SMPP.
@@ -51,8 +48,8 @@ Skipping to what I&rsquo;ve even brashly called &ldquo;Buzzwords&rdquo;:
 
 Here&rsquo;s the worst kept secret in the industry; employment agencies want your CV in Word format for two reasons:
 
-  1. They will edit your CV and remove any identifying information before sending it on to a potential employer. They do this so they&rsquo;re not bypassed, but if you&rsquo;re recruiting for anyone in IT, it&rsquo;s likely that picking one or two sentences out and searching Google will find that exact person anyway. 
-  2. They will feed your CV into a big searchable database, and when an opening comes up that they want to fill, they will keyword search for what the employers are looking for. 
+  1. They will edit your CV and remove any identifying information before sending it on to a potential employer. They do this so they&rsquo;re not bypassed, but if you&rsquo;re recruiting for anyone in IT, it&rsquo;s likely that picking one or two sentences out and searching Google will find that exact person anyway.
+  2. They will feed your CV into a big searchable database, and when an opening comes up that they want to fill, they will keyword search for what the employers are looking for.
 
 Sometimes your choice of keyword can be the difference between getting a job and not. I once lost out on a contract because I had &ldquo;Postscript&rdquo; experience on my CV, but the recruiter was looking for &ldquo;Ghostscript&rdquo;. (If you&rsquo;re not aware, Ghostscript is an interpreter for the Postscript language). Blunt search instruments in the hands of people not familiar with the industry are demoralising.
 
@@ -63,7 +60,7 @@ As you can see, in my &ldquo;please, please give me a job&rdquo; phase, I have s
 There are enough companies doing interesting work, using Python and practising something like DevOps (by the way: **I AM NOT LOOKING FOR WORK AT THIS TIME, PLEASE, PLEASE DO NOT CONTACT ME**) that unless I was made unemployed, I would be crazy to take a job doing Java and Oracle. (Besides which, I&rsquo;d probably be underqualified, which just wastes everyone&rsquo;s time). The things that you want to do, and are genuinely good at, should be the main things on your CV.
 
 > Employment:
-> 
+>
 >   * Crestsource Limited, March 2002 &#8211; date. Umbrella for consulting and contracting work.
 >   * Crestnorth Limited, June 2000 &#8211; March 2002. Umbrella for consulting and contracting work.
 >   * Hyperlink Limited, Summer 1999. Customising PHP software. Security auditing.
@@ -74,7 +71,7 @@ Accurate. As I was 21, I even included Summer jobs. I&rsquo;d leave those out, a
 Then there&rsquo;s a page-filling list of my major projects. I would probably not include this amount; one or two notable things you&rsquo;ve worked on is probably more appropriate. If you&rsquo;re a contractor like I was, a taster list like this is probably fine:
 
 > Before June 2001:
-> 
+>
 >   * Developed a WAP used car search for the SIMI (Society of the Irish Motor Industry).
 >   * Developed a WAP scratch-card for Rehab lotteries (Irish charity).
 >   * Performed system administration and software development work for the Irish Independent On-line.
@@ -82,18 +79,18 @@ Then there&rsquo;s a page-filling list of my major projects. I would probably no
 An interested employer will ask you for more detail. _This advice is for someone established and looking to switch jobs, if you&rsquo;re at the start of your career, maybe a little more detail to get your CV noticed would be worth it_.
 
 > Open Source:
-> 
-> I have contributed patches, code, documentation or resources to some Open Source projects. These include [LIST OF VERY OLD OPEN SOURCE PROJECTS] 
+>
+> I have contributed patches, code, documentation or resources to some Open Source projects. These include [LIST OF VERY OLD OPEN SOURCE PROJECTS]
 
 I totally think this is worth including in your CV. Now-a-days we have GitHub, so if you&rsquo;re sufficiently proud, you can include your [username and your employer can see for themselves][2]. Maybe call out one or two successful projects that you&rsquo;re involved in, especially if they&rsquo;re likely to be well known.
 
 > Activities:
-> 
-> As an active member of the Python Community, I regularly blog about Python and software development issues. This includes the release of several small Open Source utilities, which have been featured on Daily Python URL. I have been a member of the Internet Society since early 2003. 
+>
+> As an active member of the Python Community, I regularly blog about Python and software development issues. This includes the release of several small Open Source utilities, which have been featured on Daily Python URL. I have been a member of the Internet Society since early 2003.
 
 Also still good! ISOC membership is basically free and proves nothing though, but user-group membership and any chances to present should be called out here.
 
-> Education: Third Level: Dublin City University, 
+> Education: Third Level: Dublin City University,
 
 Stop! If you have a degree include that. If, like me, you didn&rsquo;t finish university, it might not warrant inclusion. If you&rsquo;re not _fresh_ from education, no one cares about your A-level or Leaving Certificate results, and they really don&rsquo;t care what secondary school you went to.
 

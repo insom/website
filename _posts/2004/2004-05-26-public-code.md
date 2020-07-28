@@ -1,6 +1,7 @@
 ---
 title: Writing Public Code
 date: 2004-05-26
+layout: post
 ---
 
 When writing code "for public consumption" or even just for display, I dislike releasing proof-of-concept code. Sure, I have 10 minute hacks in my snippets section, but what about the longer pieces that aren't polished, but are still good?

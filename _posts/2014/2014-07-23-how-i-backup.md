@@ -2,9 +2,6 @@
 title: How I Backup
 layout: post
 date: 2014-07-23
-url: /2014/07/how-i-backup/
-categories:
-  - Uncategorized
 ---
 I _really_ hate losing things, and I am a little obsessive about my photos in particular. I&rsquo;m a pack-rat &#8211; I keep a lot of photos because they increase in value over time. That random test shot with a new camera shows how our house used to look (remember how the plaster was coming off that wall?) or a throwaway shot that&rsquo;s the only picture of one of the kids with _that_ haircut.
 
@@ -60,7 +57,7 @@ My current [git-annex][6] remotes are:
 
 Everything on the [Microserver][2] is periodically backed up to other disks in the same server. Rather than RAID (which I don&rsquo;t need, as my SLA with my wife and kids is &ldquo;no nines&rdquo;), I use three disks in my [Microserver][2] as an original and two copies.
 
-Everything good on the [Microserver][2] runs inside an [LXC container][11], which is stored in an LVM logical volume, and backed up from outside of the container. The minimal Debian install for the host runs off a USB pen and changes infrequently. I have a second USB pen with this install on it, in case the flash dies.
+Everything good on the [Microserver][2] runs inside an LXC container, which is stored in an LVM logical volume, and backed up from outside of the container. The minimal Debian install for the host runs off a USB pen and changes infrequently. I have a second USB pen with this install on it, in case the flash dies.
 
 Because `beta` is downloaded to the [Microserver][2], it is now present on four disks total. Because `play` is a container on [Microserver][2], its [git-annex][6] install is also copied to another two disks. (10 copies of that iPhone photo, now).
 
@@ -99,19 +96,18 @@ Nothing is perfect. I&rsquo;m happy with this backup situation, but it has some 
 
  [1]: http://www.bittorrent.com/sync
  [2]: http://www.amazon.co.uk/gp/product/B00AHQUX86?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00AHQUX86&linkCode=shr&tag=virtuvitri-21&qid=1406115978&sr=8-1&keywords=hp+microserver
- [3]: https://insom.iweb-storage.com/public/files/182bdd2b.png?inline=1
+ [3]: https://insm.cf/=/182bdd2b.png
  [4]: http://www.amazon.co.uk/gp/product/B00CLD7Y4O?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00CLD7Y4O&linkCode=shr&tag=virtuvitri-21&qid=1406115944&sr=8-1&keywords=lightroom+4
- [5]: https://insom.iweb-storage.com/public/files/blog-LR.png?inline=1
+ [5]: https://insm.cf/=/blog-LR.png
  [6]: https://git-annex.branchable.com/
- [7]: https://insom.iweb-storage.com/public/files/720105a3.png?inline=1
+ [7]: https://insm.cf/=/720105a3.png
  [8]: http://git-annex.branchable.com/assistant/
  [9]: https://git-annex.branchable.com/special_remotes/rsync/
  [10]: https://www.iweb-ftp.co.uk/
- [11]: http://www.insom.me.uk/post/lindy-pi-2.html
  [12]: http://www.amazon.co.uk/gp/product/B00G28Y9BU?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00G28Y9BU&linkCode=shr&tag=virtuvitri-21&qid=1406116072&sr=8-1&keywords=mybook
  [13]: http://bvckup2.com/
- [14]: https://insom.iweb-storage.com/public/files/blog-BVC.png?inline=1
- [15]: https://insom.iweb-storage.com/public/files/af2ddf49.png?inline=1
+ [14]: https://insm.cf/=/blog-BVC.png
+ [15]: https://insm.cf/=/af2ddf49.png
  [16]: http://www.bombich.com/index.html
  [17]: http://www.cultofmac.com/124235/how-to-delete-photos-from-iclouds-photo-stream/
 

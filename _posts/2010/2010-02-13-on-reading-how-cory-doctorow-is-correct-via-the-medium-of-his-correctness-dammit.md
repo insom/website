@@ -2,10 +2,8 @@
 title: On reading how Cory Doctorow is correct, via the medium of his correctness. (Dammit).
 layout: post
 date: 2010-02-13
-url: /2010/02/on-reading-how-cory-doctorow-is-correct-via-the-medium-of-his-correctness-dammit/
-categories:
-  - Uncategorized
 ---
+
 I&rsquo;ve finished my first couple of essays from [Cory Doctorow][1]&lsquo;s &ldquo;[CONTENT][2]&ldquo;; I fancied a little bit of a break so I read [Anda&rsquo;s Game][3] in one sitting. All this reading is due to my purchase of a [Sony eReader][4] on a (little bit of a) whim at the end of last year.
 
 [<img src="https://farm5.static.flickr.com/4005/4353048269_d77c655500.jpg" width="500" height="375" alt="My eReader, Stuffed with Free Media" />][5]

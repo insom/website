@@ -1,6 +1,7 @@
 ---
 title: Threading and Events
 date: 2003-11-10
+layout: post
 ---
 
 [Threading vs. event driven asynchronous applications][t]

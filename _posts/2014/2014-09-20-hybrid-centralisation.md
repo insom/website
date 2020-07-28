@@ -1,11 +1,7 @@
 ---
 title: Hybrid Centralisation
-author: Aaron Brady
 layout: post
 date: 2014-09-20
-url: /2014/09/hybrid-centralisation/
-categories:
-  - Uncategorized
 ---
 As someone who&#8217;s written about [digital share cropping][1] before, I&#8217;m actually really hopeful about [WordPress.com][2]&#8216;s [Jetpack][3] plugin.
 

@@ -2,9 +2,6 @@
 title: Recent Reading
 layout: post
 date: 2010-06-05
-url: /2010/06/recent-reading/
-categories:
-  - Uncategorized
 ---
 It&rsquo;s Saturday morning, and I finally finished my Instapaper eReader export from last week:
 

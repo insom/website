@@ -2,9 +2,6 @@
 title: My Point, Better Made
 layout: post
 date: 2014-02-02
-url: /2014/02/my-point-better-made/
-categories:
-  - Uncategorized
 ---
 You know that thing where you spend ages making a point about a thing, and then you find a much better written and clear version of that same viewpoint?
 

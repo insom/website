@@ -1,17 +1,13 @@
 ---
 title: Hating on git-submodule
-author: Aaron Brady
 layout: post
 date: 2015-06-28
-url: /2015/06/hating-on-git-submodule/
-categories:
-  - Uncategorized
 ---
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
     <a href="https://twitter.com/DivineOmega">@DivineOmega</a> every time someone uses a submodule a puppy has a tree conflict.
   </p>
-  
+
   <p>
     &mdash; Aaron Brady (@insom) <a href="https://twitter.com/insom/status/613412059691241472">June 23, 2015</a>
   </p>

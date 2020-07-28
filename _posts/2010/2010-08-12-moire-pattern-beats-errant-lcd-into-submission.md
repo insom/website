@@ -2,9 +2,6 @@
 title: Moire pattern beats errant LCD into submission
 layout: post
 date: 2010-08-12
-url: /2010/08/moire-pattern-beats-errant-lcd-into-submission/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

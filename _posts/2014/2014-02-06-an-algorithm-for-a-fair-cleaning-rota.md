@@ -2,9 +2,6 @@
 title: An Algorithm for a Fair Cleaning Rota
 layout: post
 date: 2014-02-06
-url: /2014/02/an-algorithm-for-a-fair-cleaning-rota/
-categories:
-  - Uncategorized
 ---
 At [work][1] we have an ASP-powered business management system that includes, among other things, a cleaning rota. Because on a given day a staff member may be absent (client meetings, illness, holiday) it gained the ability to skip a user for a day.
 

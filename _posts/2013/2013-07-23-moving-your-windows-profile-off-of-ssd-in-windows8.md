@@ -2,9 +2,6 @@
 title: Moving your Windows profile off of SSD in Windows8
 layout: post
 date: 2013-07-23
-url: /2013/07/moving-your-windows-profile-off-of-ssd-in-windows8/
-categories:
-  - Uncategorized
 ---
 **While the below approach worked for me, you should understand each step before attempting it. You should take backups before attempting any system change, especially one which involves moving data and editing your registry**
 

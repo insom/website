@@ -2,9 +2,6 @@
 title: Your blog is a free as my attention
 layout: post
 date: 2010-03-22
-url: /2010/03/your-blog-is-a-free-as-my-attention/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

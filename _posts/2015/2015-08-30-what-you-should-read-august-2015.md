@@ -1,11 +1,7 @@
 ---
 title: What You Should Read (August 2015)
-author: Aaron Brady
 layout: post
 date: 2015-08-30
-url: /2015/08/what-you-should-read-august-2015/
-tags:
-  - What You Should Read
 ---
 A more organically grown WYSR this month, hooray for a return to reading things.
 

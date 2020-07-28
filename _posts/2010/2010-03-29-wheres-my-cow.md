@@ -2,9 +2,6 @@
 title: Where’s my cow?
 layout: post
 date: 2010-03-29
-url: /2010/03/wheres-my-cow/
-categories:
-  - Uncategorized
 ---
 ![][1]
 

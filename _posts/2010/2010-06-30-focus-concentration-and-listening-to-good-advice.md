@@ -2,15 +2,12 @@
 title: Focus, concentration and listening to good advice.
 layout: post
 date: 2010-06-30
-url: /2010/06/focus-concentration-and-listening-to-good-advice/
-categories:
-  - Uncategorized
 ---
 [<img src="https://farm2.static.flickr.com/1252/1486887890_5f406338a1_m.jpg" width="240" height="180" alt="Career advice" />][1]
 
 &mdash; &ldquo;Career Advice&rdquo; by [quinn.anya][2]
 
-> Advice is seldom welcome, and those who need it the most, like it the least. 
+> Advice is seldom welcome, and those who need it the most, like it the least.
 
 &mdash; Lord Chesterfield, British Statesman, Diplomat and Wit, 1694-1773
 

@@ -2,9 +2,6 @@
 title: 'Current Reading (or- I suck at Finishing)'
 layout: post
 date: 2010-09-12
-url: /2010/09/current-reading-or-i-suck-at-finishing/
-categories:
-  - Uncategorized
 ---
 Current reading (or: I suck at finishing anything)
 

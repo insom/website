@@ -1,6 +1,7 @@
 ---
 title: One Hour Photo Hack (Quick IKEA Phone Tripod)
 data: 2009-01-18
+layout: post
 ---
 
 I'm still umming and ahhing over whether to get a new camera, or whether I'd

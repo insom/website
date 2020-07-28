@@ -2,15 +2,12 @@
 title: I Love My Virtual Desktop
 layout: post
 date: 2013-11-06
-url: /2013/11/i-love-my-virtual-desktop/
-categories:
-  - Uncategorized
 ---
 ![My Virtual Desktop][1]
 
 I use a MacBook Pro at work, and a variety of Windowses at home, but the majority of my personal programming and hackery happens on a couple of machines called `Play` and `Beta`.
 
-Play is an [LXC container][2] running on my [HP Microserver][3], and Beta is a KVM virtual machine running somewhere on the [iWeb Private Cloud][4] in Manchester.
+Play is an LXC container running on my [HP Microserver][3], and Beta is a KVM virtual machine running somewhere on the [iWeb Private Cloud][4] in Manchester.
 
 Beta does the real work: [qpsmtpd][5], Exim and Dovecot to handle my mail, Apache for this blog, and any other long running daemons that I could consider &ldquo;production&rdquo; (as production as things get when you&rsquo;re doing this for yourself; typically meaning something my brother or wife will miss if it breaks).
 
@@ -37,8 +34,7 @@ to bring up the built-in VNC client.
 
 Outside of terminal work, having a separate Chromium install you can use from another machine is great when you don&rsquo;t trust the browser on the random machine you happen to be using, or when you want to see the view of a site from &ldquo;outside&rdquo; of your current network.
 
- [1]: https://insom.iweb-storage.com/public/files/d428c1c7.png?inline=1
- [2]: https://www.insom.me.uk/post/lindy-pi-2.html
+ [1]: https://insm.cf/=/d428c1c7.png
  [3]: http://www.pcmag.com/slideshow_viewer/0,3253,l=256274&a=256274&po=2,00.asp
  [4]: https://www.iweb-hosting.co.uk/
  [5]: https://smtpd.github.io/qpsmtpd/

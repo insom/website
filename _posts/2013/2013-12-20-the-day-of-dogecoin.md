@@ -2,9 +2,6 @@
 title: The Day of Dogecoin
 layout: post
 date: 2013-12-20
-url: /2013/12/the-day-of-dogecoin/
-categories:
-  - Uncategorized
 ---
 (Actually, it&rsquo;s closer to two days: one to find out it existed and to mine some and one, much better, day to spent a few thousand of them).
 

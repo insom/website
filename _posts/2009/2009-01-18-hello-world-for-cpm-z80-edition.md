@@ -1,6 +1,7 @@
 ---
 title: Hello World for CP/M (Z80 Edition)
 data: 2009-01-18
+layout: post
 ---
 
 As the current obsession is to build a Z80 microcomputer, myself and Ed decided
@@ -48,7 +49,7 @@ TEXT1:	DB 'Hello, world$'
 STACK:	DS 2 ; Somewhere to store the original stack. Probably unneeded.
 CEND	EQU $
 
-	END	
+	END
 ```
 
 Considering the scale of the systems I manage, and Ed develops, on a daily

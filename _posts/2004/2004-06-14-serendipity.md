@@ -1,6 +1,7 @@
 ---
 title: Serendipity and the 301 HTTP status code.
 date: 2004-06-14
+layout: post
 ---
 
 I had just finished reading Sam Ruby's ["Gone, really I mean it"][gone] post,

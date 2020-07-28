@@ -1,6 +1,7 @@
 ---
 title: Python Bug Day
 date: 2004-06-05
+layout: post
 ---
 
 The first [Python Bug Day][pbd] is drawing to a close, now that CVS on SourceForge has apparently died.
