@@ -42,6 +42,6 @@ The finished product, below, is far less refined than the one in my head, and I
 don't see myself using it too often, but it does technically fill the brief,
 took less than an hour, and was quite fun to build.
 
-![Phone Bits](/Gfx09/PhoneBits.jpeg)
+![Phone Bits](/img/PhoneBits.jpeg)
 
-![Phone Portrait](/Gfx09/PhonePortrait.jpeg)
+![Phone Portrait](/img/PhonePortrait.jpeg)
