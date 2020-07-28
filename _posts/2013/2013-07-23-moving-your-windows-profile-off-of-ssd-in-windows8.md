@@ -60,6 +60,6 @@ You&rsquo;re done!
 
  [1]: http://prasys.info/2012/11/move-the-users-directory-from-ssd-to-hdd-in-windows-8/
  [2]: http://www.thewindowsclub.com/safe-mode-in-windows-8
- [3]: https://f.insom.me.uk/blog-images/win8registry.png
+ [3]: /Gfx/win8registry.png
 
 

@@ -98,9 +98,9 @@ Sites like [LinkedIn][3] prompt you for this kind of information, but that&rsquo
 
 And that&rsquo;s it! Here&rsquo;s the link to [my newer, shorter, better CV.][4]
 
- [1]: https://f.insom.me.uk/cv.html
+ [1]: /Gfx/cv.html
  [2]: https://github.com/insom
- [3]: uk.linkedin.com/in/aaronwbrady
- [4]: https://f.insom.me.uk/newcv.html
+ [3]: https://uk.linkedin.com/in/aaronwbrady
+ [4]: /Gfx/newcv.html
 
 

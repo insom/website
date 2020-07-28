@@ -77,6 +77,6 @@ An example rrdtool incantation, and the graph to go with it:
  [6]: https://github.com/collectd/collectd/commit/d2c70797b18c2b532119b1264841f551e013dcad
  [7]: https://collectd.org/wiki/index.php/Plugin:Table
  [8]: https://github.com/iwebhosting/collectd-flask/
- [9]: https://f.insom.me.uk/blog-images/whileTrue.png
+ [9]: /Gfx/whileTrue.png
 
 
