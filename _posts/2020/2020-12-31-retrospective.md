@@ -43,9 +43,9 @@ I used [Hype Machine][hypem] in the past to discover new music. They went behind
 [hypem]: https://hypem.com
 [hypems]: https://hypem.com/support-us
 
-Definitely worth it for me. I'm also adding an implication to my 2018 resolution: be more intentional about music. I started by thinking I was going to "get into cassettes" and I do have a few and I fixed up three tape players this year, but it's almost too ridiculous a format, and they're just not ... nice. I had tapes growing up, they hold some nostalgia but very little aesthetic appeal.
+Definitely worth it for me. I'm also adding an implication to my 2019 resolution: be more intentional about music. I started by thinking I was going to "get into cassettes" and I do have a few and I fixed up three tape players this year, but it's almost too ridiculous a format, and they're just not ... nice. I had tapes growing up, they hold some nostalgia but very little aesthetic appeal.
 
-I started collecting vinyl, not because it sounds good (it does not), but because I do just enjoy having physical tokens of the music I listen to an artists I like. It's pretty much a three way split between almost-free thrift-store finds, over-priced reissues from artists I love (NIN is over-represented) and reasonable-considering-the-niche limited releases from Bandcamp or fan sites.
+I started collecting vinyl, not because it sounds good (it does not), but because I do just enjoy having physical tokens of the music I listen to and artists I like. It's pretty much a three way split between almost-free thrift-store finds, over-priced reissues from artists I love (NIN is over-represented) and reasonable-considering-the-niche limited releases from Bandcamp or fan sites.
 
 Honestly, the two real winners for intentional music consumption in 2020: CDs and Zip files of MP3s.
 
@@ -57,7 +57,7 @@ I like cueing up a record. I appreciate the ridiculous act of rewinding a tape. 
 
 *Problem: I read a lot of crap. It doesn't nourish my intellect and it's often not entertaining. I have a mass of tabs to get to.*
 
-I had already solved a lot of this at source but not reading [Hacker News][hn] or any other "de jour" websites. Even in 2015 and I knew that my time on earth was not well spent reading an opinion piece on a Javascript framework that I will never use and that might not exist in a year or two.
+I had already solved a lot of this at source by not reading [Hacker News][hn] or any other "de jour" websites. Even in 2015 and I knew that my time on earth was not well spent reading an opinion piece on a Javascript framework that I will never use and that might not exist in a year or two.
 
 [hn]: https://news.ycombinator.com/
 
