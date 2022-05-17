@@ -1,11 +1,9 @@
-title: Shameless Self Promotion
+title: Aaron Brady
 email: aaron@insom.me.uk
 description: >-
   Usury is evil.
 baseurl: ""
 url: "https://www.insom.me.uk"
-twitter_username: insom
-github_username:  insom
 
 theme: minima
 plugins:
